@@ -12,7 +12,6 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 46, 86, 187),
         title: const Text('HomePPage'),
       ),
       floatingActionButton: FloatingActionButton(
